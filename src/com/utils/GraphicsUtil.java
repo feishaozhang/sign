@@ -27,7 +27,7 @@ public class GraphicsUtil {
 
     public static void main(String[] args) {
         String savepath = "C:\\Users\\Administrator\\Desktop\\seal.png";
-        GraphicsUtil.generateSeal("深圳市宇商资产有限公司", savepath);
+        GraphicsUtil.generateSeal("深圳金鹰科技有限公司", savepath);
     }
 
     /**
